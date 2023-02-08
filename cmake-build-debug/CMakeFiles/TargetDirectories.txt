@@ -1,0 +1,3 @@
+C:/Users/muham/OneDrive/Desktop/Taruhan Lempar Dadu/cmake-build-debug/CMakeFiles/Taruhan_Lempar_Dadu.dir
+C:/Users/muham/OneDrive/Desktop/Taruhan Lempar Dadu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/muham/OneDrive/Desktop/Taruhan Lempar Dadu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
